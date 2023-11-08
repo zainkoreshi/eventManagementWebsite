@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('assignment:server');
+var debug = require('debug')('eventManagementWebsite:server');
 var http = require('http');
 
 /**
